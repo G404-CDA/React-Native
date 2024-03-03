@@ -1,4 +1,4 @@
-### React Native et Applications Mobiles! 🚀
+# React Native et Applications Mobiles! 🚀
 
 Dans un monde où les smartphones sont devenus des extensions de nous-mêmes 📱, le développement d'applications mobiles s'avère plus crucial que jamais. Que vous soyez une entreprise cherchant à étendre votre portée 🌍 ou un individu désireux d'exprimer sa créativité 🎨, créer des applications qui fonctionnent à la fois sur iOS et Android est la clé pour atteindre un large public. C'est ici que React Native entre en scène!
 
