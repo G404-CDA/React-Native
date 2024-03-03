@@ -36,8 +36,10 @@ La mission vous attend : créer une application mobile réactive et informative 
 
 # Proposition de design
 
+<div style="display:flex;">
 <img width='300' src='./images/Screenshot_2024-03-03-18-38-52-761-edit_com.react_native_project.jpg'>
 <img width='300' src='./images/WhiteTheme.jpg'>
+</div>
 
 # Allez plus loin 
 
